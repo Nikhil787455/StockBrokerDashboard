@@ -81,6 +81,18 @@ npm run build
 
 Nikhil
 
+## Screenshots
+
+### Login Page
+
+![Login Page]()
+
+### Dashboard
+
+![Dashboard](YOUR_IMAGE_LINK_HERE)
+
 ## License
 
 This project is created for learning and development purposes.
+
+
