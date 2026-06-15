@@ -89,7 +89,7 @@ Nikhil
 
 ### Dashboard
 
-![Dashboard](YOUR_IMAGE_LINK_HERE)
+![Dashboard](https://github.com/Nikhil787455/StockBrokerDashboard/blob/3442974780cc3e03f633c37a37c34015de8f8eac/Screenshot%202026-06-15%20162259.png)
 
 ## License
 
