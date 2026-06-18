@@ -68,7 +68,7 @@ npm run dev
 5. Open your browser and visit
 
 ```text
-http://localhost:5173
+https://stock-broker-client-web-dashboard-j.vercel.app
 ```
 
 ## Build for Production
